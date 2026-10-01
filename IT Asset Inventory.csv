@@ -1,20 +1,21 @@
 Asset Tag,Device Type,Model,Serial Number,Assigned User,Email,Department,Work Location,Purchase Date,Warranty Expiration,Status,Notes
-LT-0001,Laptop,Dell Latitude 5440,7K2L9X3,Bilal Akhtar,bilal.akhtar@itproject.ca,IT,Office,1/15/2024,1/15/2027,In Use,
-LT-0002,Laptop,HP EliteBook 840 G9,5CD2371XYZ,James Johnson,james.johnson@itproject.ca,HR,Office,2/16/2023,,,
-LT-0003,Laptop,Lenovo ThinkPad T14,PF3K9RT2,John Williams,john.williams@itproject.ca,Finance,Remote,,,,
-LT-0004,Laptop,Dell Latitude 7420,9M4P2WQ1,Robert Brown,robert.brown@itproject.ca,Accounting,Office,,,,
-,,,,David Jones,david.jones@itproject.ca,Marketing,Hybrid,,,,
-,,,,William Garcia,william.garcia@itproject.ca,Sales,Office,,,,
-,,,,Mary Miller,mary.miller@itproject.ca,Supply Chain,Remote,,,,
-,,,,Maria Davis,maria.davis@itproject.ca,Customer Support,Remote,,,,
-,,,,Joseph Martinez,joseph.martinez@itproject.ca,Engineering,Hybrid,,,,
-,,,,Maya Bennett,maya.bennett@itproject.ca,Engineering,Office,,,,
-,,,,Ava Collins,ava.collins@itproject.ca,IT,Remote,,,,
-,,,,Layla Cooper,layla.cooper@itproject.ca,Finance,Office,,,,
-,,,,Owen Blake,owen.blake@itproject.ca,Engineering,Office,,,,
-,,,,Jane Doe,jane.doe@itproject.ca,Legal,Office,,,,
-,,,,Noah Parker,noah.parker@itproject.ca,Sales,Hybrid,,,,
-,,,,Ethan Brooks,ethan.brooks@itproject.ca,Accounting,Remote,,,,
-,,,,Mason Wright,mason.wright@itproject.ca,Engineering,Remote,,,,
-,,,,Aria Sullivan,aria.sullivan@itproject.ca,IT,Hybrid,,,,
-,,,,Chloe Reed,chloe.reed@itproject.ca,IT,Office,,,,
+LT-0001,Laptop,Dell Latitude 5440,7K2L9X3,Bilal Akhtar,bilal.akhtar@itproject.ca,IT,Office,3/17/2020,3/17/2023,In Use,
+LT-0002,Laptop,HP EliteBook 840 G9,5CD2371XYZ,James Johnson,james.johnson@itproject.ca,HR,Office,8/5/2021,8/5/2024,Unused,Returned device
+LT-0003,Laptop,Lenovo ThinkPad T14,PF3K9RT2,John Williams,john.williams@itproject.ca,Finance,Remote,11/23/2022,11/23/2025,Faulty,Dead battery
+LT-0004,Laptop,Dell Latitude 7420,9M4P2WQ1,Robert Brown,robert.brown@itproject.ca,Accounting,Office,2/14/2023,2/14/2026,In Use,
+DT-0001,Desktop,Dell OptiPlex 7010,3H8N2YV7,David Jones,david.jones@itproject.ca,Marketing,Hybrid,6/29/2020,6/29/2023,Unused,Spare device
+DT-0002,Desktop,HP ProDesk 600 G9,8CJ4452LMN,William Garcia,william.garcia@itproject.ca,Sales,Office,9/11/2024,9/11/2027,In Use,
+DT-0003,Desktop,Lenovo ThinkCentre M90t,MP2K8XR4,Mary Miller,mary.miller@itproject.ca,Supply Chain,Remote,1/7/2021,1/7/2024,Retired,Employee left company
+DT-0004,Desktop,Dell OptiPlex 5090,6T9D3QZ2,Maria Davis,maria.davis@itproject.ca,Customer Support,Remote,12/18/2022,12/18/2025,In Use,
+MN-0001,Monitor,Dell P2422H,CN-0K8M2P-74261,Joseph Martinez,joseph.martinez@itproject.ca,Engineering,Hybrid,4/26/2025,4/26/2028,In Use,
+MN-0002,Monitor,HP E24 G5,6CM1023PQR,Maya Bennett,maya.bennett@itproject.ca,Engineering,Office,7/3/2020,7/3/2023,Faulty,Dead pixels on monitor screen
+MN-0003,Monitor,LG 27UL850-W,802NTDK4Y123,Ava Collins,ava.collins@itproject.ca,IT,Remote,10/15/2021,10/15/2024,Unused,Awaiting for new hire
+MN-0004,Monitor,Samsung S24R350,HL9K203M7,Layla Cooper,layla.cooper@itproject.ca,Finance,Office,5/21/2023,5/21/2026,In Use,
+PR-0001,Peripheral,Logitech MX Master 3S,2318LZ048392,Owen Blake,owen.blake@itproject.ca,Engineering,Office,2/9/2022,2/9/2025,In Use,
+PR-0002,Peripheral,Microsoft Sculpt Keyboard,MS7K2019X4,Jane Doe,jane.doe@itproject.ca,Legal,Office,8/27/2024,8/27/2027,In Use,
+PR-0003,Peripheral,Logitech MK540 Combo,2217LZ093841,Noah Parker,noah.parker@itproject.ca,Sales,Hybrid,11/6/2020,11/6/2023,Retired,Device outdated
+PR-0004,Peripheral,Dell KB216 Keyboard,DL4492MK7,Ethan Brooks,ethan.brooks@itproject.ca,Accounting,Remote,3/30/2025,3/30/2028,In Use,
+MB-0001,Mobile,iPhone 13,F2LN3X9JQP,Mason Wright,mason.wright@itproject.ca,Engineering,Remote,6/12/2021,6/12/2024,Unused,Returned device
+MB-0002,Mobile,Samsung Galaxy S22,R58N40K2PQR,Aria Sullivan,aria.sullivan@itproject.ca,IT,Hybrid,9/24/2022,9/24/2025,In Use,
+MB-0003,Mobile,iPhone 14,F7MP8Y2WRT,Chloe Reed,chloe.reed@itproject.ca,IT,Office,1/19/2024,1/19/2027,In Use,
+MB-0004,Mobile,Samsung Galaxy A54,R9JK20M4LPQ,Alex Zimmer,alex.zimmer@itproject.ca,IT,Office,4/8/2020,4/8/2023,Faulty,Cracked screen on device
